@@ -1,6 +1,7 @@
 {
   "name": "primate",
-  "integrations": {},
-  "type": "vue-vite",
-  "id": "a367f7a6"
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
 }
